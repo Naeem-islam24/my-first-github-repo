@@ -1,5 +1,6 @@
 div{
     background-color: tomato;
-    border-radius: 15px;
+     border-radius: 15px; 
     padding: 10px;
+    margin-bottom: 20px;
 }
